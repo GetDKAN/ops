@@ -7,6 +7,10 @@
 * [Website](https://github.com/GetDKAN/website/issues)
 * [All](https://github.com/GetDKAN/ops/issues)
 
+## Connect
+
+* [DKAN ops Slack channel](https://dkan.slack.com/messages/C6JUFP7Q9/)
+
 ## Questions/feedback
 
 * [Submit an issue](https://github.com/GetDKAN/ops/issues/new)
