@@ -12,6 +12,15 @@
 
 * [DKAN ops Slack channel](https://dkan.slack.com/messages/C6JUFP7Q9/)
 
+## Social media
+
+Official DKAN social media accounts:
+
+* [Twitter](https://twitter.com/getdkan)
+* [Medium](https://medium.com/dkan-blog)
+* [GitHub](https://github.com/getdkan)
+* [Drupal](https://www.drupal.org/project/dkan)
+
 ## Questions/feedback
 
 * [Submit an issue](https://github.com/GetDKAN/ops/issues/new)
