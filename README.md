@@ -11,6 +11,7 @@
 ## Connect
 
 * [DKAN ops Slack channel](https://dkan.slack.com/messages/C6JUFP7Q9/)
+* [DKAN Slack](https://dkan.slack.com)
 
 ## Social media
 
