@@ -19,6 +19,7 @@ Official DKAN social media accounts:
 
 * [Twitter](https://twitter.com/getdkan)
 * [Medium](https://medium.com/dkan-blog)
+* [YouTube](https://www.youtube.com/channel/UCl7qFUCkyh32lss4EjQEUXg)
 * [GitHub](https://github.com/getdkan)
 * [Drupal](https://www.drupal.org/project/dkan)
 
