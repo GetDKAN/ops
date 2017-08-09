@@ -15,6 +15,8 @@
 
 ## Social media
 
+### Accounts
+
 Official DKAN social media accounts:
 
 * [Twitter](https://twitter.com/getdkan)
@@ -22,6 +24,10 @@ Official DKAN social media accounts:
 * [YouTube](https://www.youtube.com/channel/UCl7qFUCkyh32lss4EjQEUXg)
 * [GitHub](https://github.com/getdkan)
 * [Drupal](https://www.drupal.org/project/dkan)
+
+### Collateral
+
+Avatars and header images can be found in the [brand assets folder](https://github.com/GetDKAN/website/tree/master/assets/img).
 
 ## Questions/feedback
 
