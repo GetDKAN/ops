@@ -24,6 +24,7 @@ Official DKAN social media accounts:
 * [YouTube](https://www.youtube.com/channel/UCl7qFUCkyh32lss4EjQEUXg)
 * [GitHub](https://github.com/getdkan)
 * [Drupal](https://www.drupal.org/project/dkan)
+* [Eventbrite](https://www.eventbrite.com/o/dkan-14793986036)
 
 ### Collateral
 
