@@ -35,4 +35,4 @@ Avatars and header images can be found in the [brand assets folder](https://gith
 
 ## Questions/feedback
 
-* [Submit an issue](https://github.com/GetDKAN/ops/issues/new)
+* [Submit an issue](https://github.com/GetDKAN/ops/issues/new) or [post to the DKAN ops Slack channel](https://dkan.slack.com/messages/C6JUFP7Q9/).
