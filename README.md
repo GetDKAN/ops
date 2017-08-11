@@ -42,4 +42,4 @@ DKAN logos, avatars and header images can be found in the [brand assets folder](
 ## Questions/feedback
 
 * [Submit an issue](https://github.com/GetDKAN/ops/issues/new)
-* [Post to the DKAN ops Slack channel](https://dkan.slack.com/messages/C6JUFP7Q9/).
+* [Post to the DKAN ops Slack channel](https://dkan.slack.com/messages/C6JUFP7Q9/)
