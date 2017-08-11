@@ -37,7 +37,7 @@ Official DKAN social media accounts:
 
 ### Graphics
 
-DKAN logos, avatars and header images can be found in the [brand assets folder](https://github.com/GetDKAN/website/tree/master/assets/img) or at [DKAN Brand]().
+DKAN logos, avatars and header images can be found in the [brand assets folder](https://github.com/GetDKAN/website/tree/master/assets/img) or at [DKAN Brand](https://getdkan.github.io/website/brand/index.html).
 
 ## Questions/feedback
 
