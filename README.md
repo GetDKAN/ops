@@ -1,8 +1,10 @@
 # DKAN operations
 
+* [Calendar](https://calendar.google.com/calendar/embed?src=getdkan%40gmail.com&ctz=America/Los_Angeles0)
+* [Board](https://waffle.io/GetDKAN/ops)
+
 ## What we're working on
 
-* [Board](https://waffle.io/GetDKAN/ops)
 * [Administrative](https://github.com/GetDKAN/ops/labels/administrative)
 * [Content](https://github.com/GetDKAN/ops/labels/content)
 * [Events](https://github.com/GetDKAN/ops/labels/events)
