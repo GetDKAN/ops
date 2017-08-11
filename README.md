@@ -29,15 +29,15 @@ Official DKAN social media accounts:
 * [Drupal](https://www.drupal.org/project/dkan)
 * [Eventbrite](https://www.eventbrite.com/o/dkan-14793986036)
 
-### Collateral
+## Collateral
 
-## Templates
+### Templates
 
 * [Google Doc](https://docs.google.com/document/d/1K1sU9H2vPN5tnXqW7jQO2OCIM1TwEiC8AfNQv9k64PA/edit?usp=sharing)
 
-## Social media
+### Graphics
 
-Avatars and header images can be found in the [brand assets folder](https://github.com/GetDKAN/website/tree/master/assets/img).
+DKAN logos, avatars and header images can be found in the [brand assets folder](https://github.com/GetDKAN/website/tree/master/assets/img) or at [DKAN Brand]().
 
 ## Questions/feedback
 
