@@ -1,6 +1,6 @@
 # DKAN operations
 
-* [Board](https://waffle.io/GetDKAN/ops)
+* [Board](https://github.com/GetDKAN/ops/projects/1)
 * [Calendar](https://calendar.google.com/calendar/embed?src=getdkan%40gmail.com&ctz=America/Los_Angeles0)
 
 ## What we're working on
