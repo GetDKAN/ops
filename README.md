@@ -31,6 +31,12 @@ Official DKAN social media accounts:
 
 ### Collateral
 
+## Templates
+
+* [Google Doc](https://docs.google.com/document/d/1K1sU9H2vPN5tnXqW7jQO2OCIM1TwEiC8AfNQv9k64PA/edit?usp=sharing)
+
+## Social media
+
 Avatars and header images can be found in the [brand assets folder](https://github.com/GetDKAN/website/tree/master/assets/img).
 
 ## Questions/feedback
