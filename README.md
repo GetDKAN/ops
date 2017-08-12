@@ -1,6 +1,7 @@
 # DKAN operations
 
-* [Board](https://github.com/GetDKAN/ops/projects/1)
+* [Ops board](https://github.com/GetDKAN/ops/projects/1)
+* [Website board](https://github.com/GetDKAN/website/projects/1)
 * [Calendar](https://calendar.google.com/calendar/embed?src=getdkan%40gmail.com&ctz=America/Los_Angeles0)
 
 ## What we're working on
