@@ -42,7 +42,7 @@ DKAN logos, avatars and header images can be found in the [brand assets folder](
 
 ### Photos
 
-* (Photos folder)[https://drive.google.com/drive/folders/0Bx6nb5wSTj6GekdNMzZlWHBVaUE?usp=sharing]
+* [Photos folder](https://drive.google.com/drive/folders/0Bx6nb5wSTj6GekdNMzZlWHBVaUE?usp=sharing)
 
 ## Questions/feedback
 
