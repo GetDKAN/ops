@@ -22,6 +22,7 @@
 ### Outreach
 
 * New [DKAN Blog](https://medium.com/dkan-blog) posts auto-tweet from [@getdkan](https://twitter.com/getdkan) via IFTTT.
+* New [DKAN Blog](https://medium.com/dkan-blog) posts auto-post to the DKAN [#general](https://dkan.slack.com/messages/C38VAUZ09/) Slack channel.
 
 ### Accounts
 
