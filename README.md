@@ -19,6 +19,10 @@
 
 ## Social media
 
+### Outreach
+
+* New [DKAN Blog](https://medium.com/dkan-blog) posts auto-tweet from [@getdkan](https://twitter.com/getdkan) via IFTTT.
+
 ### Accounts
 
 Official DKAN social media accounts:
