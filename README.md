@@ -14,7 +14,7 @@
 
 ## Connect
 
-* [DKAN ops Slack channel](https://dkan.slack.com/messages/C6JUFP7Q9/)
+* [DKAN #ops Slack channel](https://dkan.slack.com/messages/C6JUFP7Q9/)
 * [DKAN Slack](https://dkan.slack.com)
 
 ## Social media
@@ -44,4 +44,4 @@ Official DKAN social media accounts:
 ## Questions/feedback
 
 * [Submit an issue](https://github.com/GetDKAN/ops/issues/new)
-* [Post to the DKAN ops Slack channel](https://dkan.slack.com/messages/C6JUFP7Q9/)
+* [Post to the DKAN #ops Slack channel](https://dkan.slack.com/messages/C6JUFP7Q9/)
