@@ -41,6 +41,15 @@ Official DKAN social media accounts:
 * [DKAN logos, avatars, social media header images](https://github.com/GetDKAN/website/tree/master/assets/img)
 * [Photos](https://drive.google.com/drive/u/4/photos)
 
+## How to
+
+### Publish a blog post
+
+* Create a shared, commentable Google doc (use [this template](https://docs.google.com/document/d/1K1sU9H2vPN5tnXqW7jQO2OCIM1TwEiC8AfNQv9k64PA/edit?usp=sharing)).
+* When completed, [submit a new issue](https://github.com/GetDKAN/ops/issues/new) with a link to the Google doc, label as 'content' and assign to @lukefretwell. All editing/correspondence will occur in the Google doc.
+* Once editorial is finalized, publish your post to [Medium](https://medium.com).
+* Add your Medium username to the GitHub issue ticket, we'll add you as a contributor and publish your post to the [DKAN Blog](https://medium.com/dkan-blog).
+
 ## Questions/feedback
 
 * [Submit an issue](https://github.com/GetDKAN/ops/issues/new)
