@@ -20,6 +20,7 @@
 ## Newsletter
 
 * Sent monthly on the last Wednesday of the month via MailChimp.
+* [Subscribe form](http://eepurl.com/c02C4T)
 * [Campaign archives](http://us16.campaign-archive2.com/home/?u=e0e7eaaf54a8c3a138bd0b175&id=91439c3515)
 
 ## Social media
