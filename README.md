@@ -1,3 +1,3 @@
 # DKAN ops
 
-All DKAN operations is documented in the [DKAN ops guide](https://github.com/GetDKAN/ops/wiki).
+All DKAN operations are documented in the [DKAN guide](https://dkan.gitbooks.io/guide).
