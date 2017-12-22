@@ -17,4 +17,4 @@ Questions? [Submit an issue](https://github.com/GetDKAN/ops/issues/new)
 
 ## DKAN development/documentation
 
-For DKAN development and documentation issues, [visit the DKAN repo](https://github.com/GetDKAN/dkan).
+[Visit the DKAN repo](https://github.com/GetDKAN/dkan) for DKAN development and documentation issues.
