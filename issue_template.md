@@ -19,3 +19,10 @@ Checklist for promoting DKAN releases, blog posts and other news:
 * [ ] Blog post (Instructions: https://github.com/GetDKAN/ops/wiki/Blog)
 * [ ] Post to Twitter: https://twitter.com/getdkan
 * [ ] Post to [DKAN Slack](https://dkan.slack.com) in #general, #buzz, or other relevant channels
+
+## Content check-in
+
+- [ ] review [blog stats](https://medium.com/me/stats)
+- [ ] review/update [evergreen content](https://getdkan.org/resources/)
+- [ ] brainstorm ideas, add to issues, label 'content'
+- [ ] update wiki [content page](https://github.com/GetDKAN/ops/wiki/Content) if necessary
