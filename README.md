@@ -17,6 +17,6 @@ Project DKAN operations are managed and documented in the following locations:
 
 [Submit an issue](https://github.com/GetDKAN/ops/issues/new)
 
-## DKAN development/documentation
+## DKAN product development/documentation
 
-[Visit the DKAN repo](https://github.com/GetDKAN/dkan) for DKAN development and documentation issues.
+[Visit the DKAN repo](https://github.com/GetDKAN/dkan) for DKAN product development and documentation issues.
